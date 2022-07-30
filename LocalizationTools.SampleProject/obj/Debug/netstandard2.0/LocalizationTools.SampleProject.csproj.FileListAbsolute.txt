@@ -1,0 +1,12 @@
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\bin\Debug\netstandard2.0\LocalizationTools.SampleProject.deps.json
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\bin\Debug\netstandard2.0\LocalizationTools.SampleProject.dll
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\bin\Debug\netstandard2.0\LocalizationTools.SampleProject.pdb
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.AssemblyInfoInputs.cache
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.AssemblyInfo.cs
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.csproj.CoreCompileInputs.cache
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.dll
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.pdb
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.Properties.Resources.resources
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.csproj.GenerateResource.cache
+F:\Projects\LocalizationTools\LocalizationTools.SampleProject\LocalizationTools.SampleProject\obj\Debug\netstandard2.0\LocalizationTools.SampleProject.csproj.AssemblyReference.cache
